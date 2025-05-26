@@ -1,0 +1,85 @@
+===EASY===
+
+Question: When did Jose Rizal die?
+
+A. June 19, 1896
+B. December 12, 1861
+C. June 30, 1899
+D. December 30, 1896
+Answer: D
+
+Question: What is the largest continent?
+
+A. Europe
+B. Asia
+C. South America
+D. Russia
+Answer: B
+
+Question: Who is the National Hero of the Philippines?
+
+A. Dr. Jose Rizal
+B. Pres. Bongbong Marcos
+C. Apolinario Mabini
+D. Bini Maloi
+Answer: A
+
+Question: Layers of the Atmosphere (lowest-highest)
+
+A. Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere
+B. Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere
+C. Stratosphere, Troposphere, Thermosphere, Mesosphere, Exosphere
+D. Troposphere, Stratosphere, Mesosphere, Exosphere, Thermosphere
+Answer: B
+
+===MEDIUM===
+
+Question: Who is the 9th President of the Philippines?
+
+A. Sergio Osmena
+B. Ramon Magsaysay
+C. Diosdado Macapagal
+D. Corazon Aquino
+Answer: C
+
+Question: What is the formula for Velocity?
+
+A. Displacement / Time
+B. Time * Displacement
+C. Acceleration / Time
+D. Distance * Speed
+Answer: A
+
+Question: Which programming language is known for its direct syntax making it easier for beginners?
+
+A. C++
+B. Java
+C. R
+D. Python
+Answer: D
+
+==HARD==
+
+Question: What element has the highest electronegativity based on the periodic table?
+
+A. Oxygen
+B. Mercury
+C. Fluorine
+D. Chlorine
+Answer: C
+
+Question: What is the primary source of oxygen produced during Photosynthesis?
+
+A. Water
+B. Sun
+C. Glucose
+D. ATP 
+Answer: A
+
+Question: Which function is used to check the type of variable in Python?
+
+A. def()
+B. type()
+C. title()
+D. check_type()
+Answer: B
