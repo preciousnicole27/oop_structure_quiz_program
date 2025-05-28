@@ -5,7 +5,7 @@ class QuizCreator(QuizBaseQuestions):
     def add_questions(self):
         while True:
             print(Fore.GREEN + "\nAdding a new question")
-            question_text = input("Enter the question: ")
+            question = input("Enter the question: ")
             choice_a = input("a.")
             choice_b = input("b.")
             choice_c = input("c.")
