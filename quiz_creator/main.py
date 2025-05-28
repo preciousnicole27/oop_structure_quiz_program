@@ -19,7 +19,7 @@ def main():
         choice = input("Choose an option (A/B/C/D): ").strip().upper()
 
         if choice == 'A':
-            creator.add_question()
+            creator.add_questions()
         elif choice == 'B':
             viewer.view_questions()
         elif choice == 'C':
