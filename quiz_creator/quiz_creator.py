@@ -18,12 +18,13 @@ class QuizCreator(QuizBaseQuestions):
 
             with open(self.filename, 'a') as file:
                file.write(f"Question:{question}\n")
-            file.write(f"A. {a}\n")
-            file.write(f"B. {b}\n")
-            file.write(f"C. {c}\n")
-            file.write(f"D. {d}\n")
+            file.write(f"A. {choice_a}\n")
+            file.write(f"B. {choice_b}\n")
+            file.write(f"C. {choice_c}\n")
+            file.write(f"D. {choice_d}\n")
             file.write(f"Answer: {answer.upper()}\n\n")
             
             again = input("Add a new question? (yes/no):").strip().lower()
             if again != 'yes':
                 break 
+
